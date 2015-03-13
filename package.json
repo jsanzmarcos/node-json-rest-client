@@ -13,6 +13,7 @@
   "devDependencies": {
     "jasmine-node":">=1.2.3"
     },
+  "private":true,
   "optionalDependencies": {},
   "engines": {
     "node": "*"
